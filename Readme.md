@@ -67,4 +67,4 @@ We welcome contributions to the Yoga Trainer Platform! To contribute, please fol
 9. Once the PR is approved, your changes will be merged into the main repository.
 
 ---
-Thank you for contributing
+Thank you for Your contribution.
